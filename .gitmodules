@@ -12,6 +12,10 @@
 	path = haldensify
 	url = https://github.com/nhejazi/haldensify
 	registered = false
+[submodule "medshift"]
+	path = medshift
+	url = https://github.com/nhejazi/medshift
+	registered = false
 [submodule "origami"]
 	path = origami
 	url = https://github.com/tlverse/origami
