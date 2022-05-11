@@ -4,5 +4,17 @@
     "url": "https://github.com/nhejazi/haldensify",
     "via": ["sl3"],
     "from": "sl3"
+  },
+  {
+    "package": "haldensify",
+    "url": "https://github.com/nhejazi/haldensify",
+    "via": ["tmle3", "sl3"],
+    "from": "tmle3"
+  },
+  {
+    "package": "sl3",
+    "url": "https://github.com/tlverse/sl3",
+    "via": ["tmle3"],
+    "from": "tmle3"
   }
 ]
