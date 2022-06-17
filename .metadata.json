@@ -1,0 +1,14 @@
+[
+  {
+    "package": "delayed",
+    "oncran": true
+  },
+  {
+    "package": "hal9001",
+    "oncran": true
+  },
+  {
+    "package": "origami",
+    "oncran": true
+  }
+]
