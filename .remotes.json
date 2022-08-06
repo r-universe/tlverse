@@ -1,9 +1,27 @@
 [
   {
+    "package": "delayed",
+    "url": "https://github.com/tlverse/delayed",
+    "via": ["tmle3mopttx"],
+    "from": "tmle3mopttx"
+  },
+  {
     "package": "haldensify",
     "url": "https://github.com/nhejazi/haldensify",
     "via": ["tmle3", "sl3"],
     "from": "tmle3"
+  },
+  {
+    "package": "haldensify",
+    "url": "https://github.com/nhejazi/haldensify",
+    "via": ["tmle3mopttx", "sl3"],
+    "from": "tmle3mopttx"
+  },
+  {
+    "package": "origami",
+    "url": "https://github.com/tlverse/origami",
+    "via": ["tmle3mopttx"],
+    "from": "tmle3mopttx"
   },
   {
     "package": "sl3",
@@ -11,5 +29,23 @@
     "via": ["tmle3"],
     "branch": "fix-tests",
     "from": "tmle3"
+  },
+  {
+    "package": "sl3",
+    "url": "https://github.com/tlverse/sl3",
+    "via": ["tmle3mopttx"],
+    "from": "tmle3mopttx"
+  },
+  {
+    "package": "tmle3",
+    "url": "https://github.com/tlverse/tmle3",
+    "via": ["tmle3mopttx"],
+    "from": "tmle3mopttx"
+  },
+  {
+    "package": "tmle3shift",
+    "url": "https://github.com/tlverse/tmle3shift",
+    "via": ["tmle3mopttx"],
+    "from": "tmle3mopttx"
   }
 ]
