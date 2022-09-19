@@ -8,6 +8,11 @@
 	url = https://github.com/tlverse/delayed
 	shallow = true
 	registered = true
+[submodule "hal9001"]
+	path = hal9001
+	url = https://github.com/tlverse/hal9001
+	shallow = true
+	registered = true
 [submodule "origami"]
 	path = origami
 	url = https://github.com/tlverse/origami
