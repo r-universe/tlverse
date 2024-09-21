@@ -18,6 +18,12 @@
     "from": "tmle3mopttx"
   },
   {
+    "package": "haldensify",
+    "url": "https://github.com/nhejazi/haldensify",
+    "via": ["tmle3shift", "sl3"],
+    "from": "tmle3shift"
+  },
+  {
     "package": "origami",
     "url": "https://github.com/tlverse/origami",
     "via": ["tmle3mopttx"],
@@ -37,10 +43,22 @@
     "from": "tmle3mopttx"
   },
   {
+    "package": "sl3",
+    "url": "https://github.com/tlverse/sl3",
+    "via": ["tmle3shift"],
+    "from": "tmle3shift"
+  },
+  {
     "package": "tmle3",
     "url": "https://github.com/tlverse/tmle3",
     "via": ["tmle3mopttx"],
     "from": "tmle3mopttx"
+  },
+  {
+    "package": "tmle3",
+    "url": "https://github.com/tlverse/tmle3",
+    "via": ["tmle3shift"],
+    "from": "tmle3shift"
   },
   {
     "package": "tmle3shift",
