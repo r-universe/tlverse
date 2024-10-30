@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/tlverse/tlverse.r-universe.dev
 	branch = HEAD
 [submodule "delayed"]
 	path = delayed
@@ -11,3 +11,9 @@
 [submodule "origami"]
 	path = origami
 	url = https://github.com/tlverse/origami
+[submodule "sl3"]
+	path = sl3
+	url = https://github.com/tlverse/sl3
+[submodule "tmle3"]
+	path = tmle3
+	url = https://github.com/tlverse/tmle3
