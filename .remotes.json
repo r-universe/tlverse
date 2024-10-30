@@ -9,6 +9,7 @@
     "package": "sl3",
     "url": "https://github.com/tlverse/sl3",
     "via": ["tmle3"],
+    "branch": "fix-tests",
     "from": "tmle3"
   }
 ]
