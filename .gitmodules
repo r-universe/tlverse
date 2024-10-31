@@ -23,3 +23,12 @@
 	path = tmle3
 	url = https://github.com/tlverse/tmle3
 	branch = devel
+[submodule "tmle3mediate"]
+	path = tmle3mediate
+	url = https://github.com/tlverse/tmle3mediate
+[submodule "tmle3mopttx"]
+	path = tmle3mopttx
+	url = https://github.com/tlverse/tmle3mopttx
+[submodule "tmle3shift"]
+	path = tmle3shift
+	url = https://github.com/tlverse/tmle3shift
