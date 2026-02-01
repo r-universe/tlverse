@@ -8,14 +8,6 @@
 [submodule "hal9001"]
 	path = hal9001
 	url = https://github.com/tlverse/hal9001
-[submodule "haldensify"]
-	path = haldensify
-	url = https://github.com/nhejazi/haldensify
-	registered = false
-[submodule "medshift"]
-	path = medshift
-	url = https://github.com/nhejazi/medshift
-	registered = false
 [submodule "origami"]
 	path = origami
 	url = https://github.com/tlverse/origami
